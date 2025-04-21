@@ -33,7 +33,7 @@ hftmaster/
 ├── test.py            # Verbose educational loop version
 ├── *.pdf              # Auto‑generated plots (saved on run)
 └── .idea/             # JetBrains project files (can be ignored)
-
+```
 
 # 🚀 Quick start
 1. Clone & enter the repo
