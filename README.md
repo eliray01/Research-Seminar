@@ -63,4 +63,3 @@ prices.pdf – Mid‑price vs optimal bid/ask quotes
     ```bash
     python data.py                # uses appl.csv by default
     ```
-
